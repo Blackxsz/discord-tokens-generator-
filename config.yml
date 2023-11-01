@@ -1,0 +1,10 @@
+captcha:
+  key: "CAP-82860A58D66F87FD1FCA831484C6AE95"
+  provider: "capsolver.com" # Or capmonster.cloud, more soon
+  site key: "4c672d35-0701-42b2-88c3-78380b0db560" # Changes 1-2 times a year
+
+settings:
+  discord build number: "100" # leave empty to automate
+
+token:
+  username: "" # Leave empty for random
